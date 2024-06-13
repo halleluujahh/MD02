@@ -1,0 +1,10 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™ğ­üÿÿÿÿ
+X
+java:S1659"BDeclare "edge2" and all following declarations on a separate line.(€ÖÃ·
+@	java:S106
+"+Replace this use of System.out by a logger.(»¬Áµ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(²Ç»ä
+@	java:S106"+Replace this use of System.out by a logger.(²Ç»ä
+?	java:S106"+Replace this use of System.out by a logger.(Ò˜

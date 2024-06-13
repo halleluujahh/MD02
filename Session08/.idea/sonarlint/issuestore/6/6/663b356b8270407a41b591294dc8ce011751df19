@@ -1,0 +1,51 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ÌŠûÿÿÿÿ8ğ­¨…ˆ2J$97d26a52-e376-4ba9-b43d-708e32a23052
+›
+java:S1104"XMake listEmployee a static final constant or non-public and provide accessors if needed.(¯ÿ¤8ñ­¨…ˆ2J$10475b27-0f4b-433d-a9cd-2e8418cf3df1
+›
+java:S1104"XMake currentIndex a static final constant or non-public and provide accessors if needed.(–ş˜®8ñ­¨…ˆ2J$59bbafb5-2800-45e6-9802-5a60d70aaa95
+u
+java:S1444"2Make this "public static listEmployee" field final(¯ÿ¤8õ­¨…ˆ2J$fba81aa9-2486-403a-9669-b67a7e5d6ade
+u
+java:S1444"2Make this "public static currentIndex" field final(–ş˜®8õ­¨…ˆ2J$95514a35-f962-4954-a4a2-fa643ef48bc7
+	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ØŒÂ…ˆ2J$5cad909f-631e-43b2-b717-5df97fa49c65
+§
+java:S1192W"_Define a constant instead of duplicating this literal "KhÃ´ng tÃ¬m tháº¥y nhÃ¢n viÃªn" 3 times.(šÜ§Ëÿÿÿÿÿ8ö­¨…ˆ2J$c46feeb6-5ee8-494a-861c-59cf79b34f1a
+`
+java:S2386"Make this member "protected".(¯ÿ¤8ù­¨…ˆ2J$0e5b23be-22be-4693-b6d3-26e53be765f6
+r	java:S106"+Replace this use of System.out by a logger.(óëì…ùÿÿÿÿ8®¨…ˆ2J$000079f0-25de-44cd-97f7-c49464a488e0
+r	java:S106"+Replace this use of System.out by a logger.(Â©­üÿÿÿÿÿ8®¨…ˆ2J$2ecfd3ed-51f8-4c57-b217-3f105f296e9d
+m	java:S106"+Replace this use of System.out by a logger.(¡¼º´8®¨…ˆ2J$59412ab9-4ae8-4afb-9071-c967ec420ace
+l	java:S106"+Replace this use of System.out by a logger.(ùçË$8‚®¨…ˆ2J$96acae92-0d85-4eac-a9fa-7eab6170401b
+r	java:S106"+Replace this use of System.out by a logger.(ñË¶…øÿÿÿÿ8‚®¨…ˆ2J$6d5053c6-d539-42cc-8259-bcb77b540a23
+r	java:S106"+Replace this use of System.out by a logger.(«›­Ÿıÿÿÿÿ8‚®¨…ˆ2J$f3cd40d2-7883-446c-90c9-1cfd0c286da4
+l	java:S106"+Replace this use of System.out by a logger.(Ñšör8‚®¨…ˆ2J$d109f545-9878-486b-9eac-9ed946d4824a
+r	java:S106"+Replace this use of System.out by a logger.(¶øœ¿ıÿÿÿÿ8ƒ®¨…ˆ2J$cfc7c62b-24c8-400e-be46-57b8cc0da97e
+r	java:S106"+Replace this use of System.out by a logger.(¯öúìøÿÿÿÿ8ƒ®¨…ˆ2J$1ef2ded1-0de3-4674-8663-9d7bce72c97b
+¡
+java:S21427"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8êŒÂ…ˆ2J$33578df3-ab03-42fc-b5ec-fadf2a7816dd
+r	java:S1060"+Replace this use of System.out by a logger.(‡»ÿúÿÿÿÿ8†®¨…ˆ2J$fc8e37e5-0fd5-491e-9529-d15682dcf766
+r	java:S1063"+Replace this use of System.err by a logger.(ˆ†áúúÿÿÿÿ8†®¨…ˆ2J$23c0e668-515f-4c2b-9b99-bc7953959303
+r	java:S1066"+Replace this use of System.err by a logger.(ÎÒ‚Úûÿÿÿÿ8†®¨…ˆ2J$2fac90b3-2d5a-415b-9d5d-dc588c1bd269
+
+java:S1854A"<Remove this useless assignment to local variable "temporal".(¹€¯8‡®¨…ˆ2J$2ddca0ec-196b-4e68-98b9-b1c6e184f06b
+p
+java:S1481A"-Remove this unused "temporal" local variable.(¹€¯8ˆ®¨…ˆ2J$309d9a1f-2f19-46cd-8d05-435d00486955
+m	java:S106G"+Replace this use of System.out by a logger.(¹­¢—8ˆ®¨…ˆ2J$4b74c51f-56af-459f-9812-70b371dab536
+l	java:S106K"+Replace this use of System.out by a logger.(¯Á‘I8Š®¨…ˆ2J$ee0a234b-7a25-48be-8e86-e7a52e183ed1
+r	java:S106W"+Replace this use of System.out by a logger.(šÜ§Ëÿÿÿÿÿ8Œ®¨…ˆ2J$64d165c8-b861-4105-bbe9-464b867d592d
+r	java:S106^"+Replace this use of System.out by a logger.(Èöö…ıÿÿÿÿ8Œ®¨…ˆ2J$fdf8a77b-75d5-468c-bfa7-0926d0a2e05b
+m	java:S106c"+Replace this use of System.out by a logger.(õ²á¼8®¨…ˆ2J$4407ce5c-f424-4315-b140-84e99a4a8a28
+m	java:S106g"+Replace this use of System.out by a logger.(¯âæ¬8®¨…ˆ2J$450955b9-e124-4c54-b899-fa42f2a05d8d
+r	java:S106l"+Replace this use of System.out by a logger.(šÜ§Ëÿÿÿÿÿ8®¨…ˆ2J$83e9ce95-4fe5-41b0-a232-580248a3302f
+r	java:S106p"+Replace this use of System.out by a logger.(—¡Æøùÿÿÿÿ8‘®¨…ˆ2J$e0ce8ab8-d7b5-4a20-91ba-6ab4251b52a7
+r	java:S106t"+Replace this use of System.out by a logger.(ï¤øÛıÿÿÿÿ8’®¨…ˆ2J$3577bd9a-6869-4eb9-90b1-82de60366ebb
+r	java:S106y"+Replace this use of System.out by a logger.(šÜ§Ëÿÿÿÿÿ8’®¨…ˆ2J$f9e2bd10-b61f-467b-8573-49573ba5d846
+m	java:S106}"+Replace this use of System.out by a logger.(µ§´Â8”®¨…ˆ2J$f7cd35c8-8b54-4097-9f34-7368353cafee
+n	java:S106ˆ"+Replace this use of System.out by a logger.(ªäî8—®¨…ˆ2J$9e4fd0db-1428-4f16-9bed-2ad83f4ca9c2
+n	java:S106‰"+Replace this use of System.out by a logger.(Ú±Õú8˜®¨…ˆ2J$419de013-f9cb-4466-9929-0b962f99e376
+n	java:S106"+Replace this use of System.err by a logger.(Ì²ØÓ8¤î°…ˆ2J$badd39c4-31b7-44d4-af8a-5d12ddc852f0
+t
+java:S1481–"+Remove this unused "salary" local variable.(¢À­Ìúÿÿÿÿ8–¯…ˆ2J$6a80224c-8f7d-4c4b-8d04-cc492d63fdbf
+m	java:S106"+Replace this use of System.out by a logger.(ßı8ÜÍ°…ˆ2J$5d3880b1-9d52-42ee-a748-9efda76d3bbd
+n	java:S106Ÿ"+Replace this use of System.err by a logger.(Ì²ØÓ8ù¸…ˆ2J$d34f6725-bf6d-4855-b2f7-e32316d50080

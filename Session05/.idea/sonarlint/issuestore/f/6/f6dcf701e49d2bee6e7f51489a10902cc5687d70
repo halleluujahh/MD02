@@ -1,0 +1,23 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ş¢ò8Í¾âŠ2
+g	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Í¾âŠ2
+g	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8­Í¾âŠ2
+n
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(¿û›ƒıÿÿÿÿ8½Í¾âŠ2
+i
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(‰‹ó±8ÍÍ¾âŠ2
+a
+java:S2147'"DCombine this catch with the one at line 37, which has the same body.(ï­£Ä8ìÍ¾âŠ2
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(öïÖä8ìÍ¾âŠ2
+L	java:S106"+Replace this use of System.out by a logger.(ö Ëìûÿÿÿÿ8ìÍ¾âŠ2
+L	java:S106"+Replace this use of System.out by a logger.(¹ùÖ¯şÿÿÿÿ8ìÍ¾âŠ2
+]
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ŠÍ‰8ìÍ¾âŠ2
+L	java:S106"+Replace this use of System.out by a logger.(ö Ëìûÿÿÿÿ8ìÍ¾âŠ2
+L	java:S106"+Replace this use of System.out by a logger.(¹ùÖ¯şÿÿÿÿ8ìÍ¾âŠ2
+L	java:S106 "+Replace this use of System.out by a logger.(ñ—¸½úÿÿÿÿ8ìÍ¾âŠ2
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ìÍ¾âŠ2
+C
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8íÍ¾âŠ2

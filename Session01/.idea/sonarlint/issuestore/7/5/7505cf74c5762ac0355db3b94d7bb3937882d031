@@ -1,0 +1,48 @@
+
+~
+java:S1854$"=Remove this useless assignment to local variable "MARK_PASS".(·¶ÕÏûÿÿÿÿJ$08ee341a-b4e1-4617-a859-ca055ebe04b0
+q
+java:S1854"5Remove this useless assignment to local variable "c".(µö¨µJ$5e6463c8-90e8-4462-b223-833910beed2f
+q
+java:S1854"5Remove this useless assignment to local variable "b".(µö¨µJ$70a46e82-2409-47fc-84bd-97ae7e1d824a
+q
+java:S1854"5Remove this useless assignment to local variable "a".(µö¨µJ$c005514d-c804-4675-8d5b-7a3013054bd7
+|
+java:S1854";Remove this useless assignment to local variable "address".(ª¹ê§úÿÿÿÿJ$18c673b7-21e4-4be6-babe-a937af119e09
+t
+java:S1854"8Remove this useless assignment to local variable "mark".(×Ë×âJ$a0f5756f-3f46-4280-ad34-507f24d5297e
+s
+java:S1854"7Remove this useless assignment to local variable "age".(·ÒÎžJ$b7a7a636-c743-4cb6-9c0f-ae7ab24b4a34
+€
+java:S1854"?Remove this useless assignment to local variable "studentName".(ÚÎ†­ùÿÿÿÿJ$13f2e264-57bb-4511-a83e-00c86602942b
+y
+java:S1854"=Remove this useless assignment to local variable "studentId".(ìÌ™J$957ec12a-4221-4846-990b-3d491977fbb0
+z
+java:S1659">Declare "b" and all following declarations on a separate line.(µö¨µJ$c9f34f55-8def-46b8-9b48-a25984bd55d0
+j
+java:S1481	".Remove this unused "studentId" local variable.(¨ñ€ÛJ$d019a1da-4be6-4c7c-9301-009fd52cde58
+q
+java:S1481
+"0Remove this unused "studentName" local variable.( Á£ÀþÿÿÿÿJ$cc558afe-c4f2-4b47-ba3b-a39599a92b3f
+d
+java:S1481"(Remove this unused "age" local variable.(¯Ó¶»J$af855d44-ae17-46ef-951d-cf905829761d
+i
+java:S1481"(Remove this unused "sex" local variable.(Äü–îþÿÿÿÿJ$b657fa18-1e23-47c6-a5e2-710a87e73bb9
+w	java:S125"<This block of commented-out lines of code should be removed.(Àáó¬J$33b3c8a2-53f0-452b-81c2-1060cef3da97
+|	java:S125"<This block of commented-out lines of code should be removed.(“¥ñüÿÿÿÿJ$17233bd8-2dca-480d-b476-a8b0b85ffb5f
+e
+java:S1481")Remove this unused "mark" local variable.(×Ë×âJ$b3680064-a71f-497c-8c41-a8ef87bfb72e
+m
+java:S1481",Remove this unused "address" local variable.(ª¹ê§úÿÿÿÿJ$cdbea1b1-2924-4c88-81ad-c3d2bd660f60
+|	java:S125"<This block of commented-out lines of code should be removed.(‰‰ìóþÿÿÿÿJ$0d9b18e3-7227-4724-a2dd-ff8243497a79
+b
+java:S1481"&Remove this unused "a" local variable.(µö¨µJ$bef0a93b-215a-4e07-b9f3-29aa011acef0
+|	java:S125"<This block of commented-out lines of code should be removed.(‰‰ìóþÿÿÿÿJ$f1af4641-1cfb-4225-9c66-e823362066fc
+b
+java:S1481"&Remove this unused "b" local variable.(µö¨µJ$661b2cc5-8502-4de5-9983-22d27cc734f1
+|	java:S125"<This block of commented-out lines of code should be removed.(‰‰ìóþÿÿÿÿJ$f27ef940-0ac9-4973-83ee-17412f078dfc
+b
+java:S1481"&Remove this unused "c" local variable.(µö¨µJ$845628cb-7d93-4647-ad4d-2b92af38b41f
+v	java:S125!"<This block of commented-out lines of code should be removed.(¬¢Í0J$0339c999-ea91-4bf0-8d6e-2e5da0a3a50d
+o
+java:S1481$".Remove this unused "MARK_PASS" local variable.(·¶ÕÏûÿÿÿÿJ$2b604976-391d-4f97-a250-650bada35ff9

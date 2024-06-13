@@ -1,0 +1,39 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯®8ׂ¶צׁ…2J$57436f9d-806f-4aab-a3ad-e3a187a0e9ad
+r	java:S106"+Replace this use of System.out by a logger.(ֿƒ÷ÿÿÿÿÿ8ף¶צׁ…2J$680d17e1-2a35-4d86-b64f-3a1144aa0c6d
+m	java:S106"+Replace this use of System.out by a logger.(¦€¡ג8פ¶צׁ…2J$741b202b-4a19-4232-a884-e9e649c2401f
+r	java:S106"+Replace this use of System.out by a logger.(¿»©¹ûÿÿÿÿ8פ¶צׁ…2J$c0de053f-3934-4179-a809-5c37332bff17
+r	java:S106"+Replace this use of System.out by a logger.(ײױּך‎ÿÿÿÿ8פ¶צׁ…2J$3a0403a5-6d7c-4dd6-9159-efddba11b274
+m	java:S106"+Replace this use of System.out by a logger.(סׁ¾®8ץ¶צׁ…2J$e0ac516f-62cb-4b66-b535-249968dc874b
+r	java:S106"+Replace this use of System.out by a logger.(פÙּשÿÿÿÿ8ץ¶צׁ…2J$a546f83b-6825-4ee5-bc7d-866cf8173c9e
+r	java:S106"+Replace this use of System.out by a logger.(ױ€–‏ÿÿÿÿ8ק¶צׁ…2J$05124c4d-5a2c-4a20-a591-4655bab115fd
+r	java:S106"+Replace this use of System.out by a logger.(הְß‏ÿÿÿÿ8ק¶צׁ…2J$28379013-077c-4179-8bf1-cbe3bc0aab98
+r	java:S106"+Replace this use of System.out by a logger.(­—רÝשÿÿÿÿ8ק¶צׁ…2J$867ff45d-e628-4e32-b407-a4be06dec062
+r	java:S106"+Replace this use of System.out by a logger.(ח‡ֻ¸ûÿÿÿÿ8‏¶צׁ…2J$fa70fff1-2164-47de-b849-c81f151541d2
+r	java:S1061"+Replace this use of System.err by a logger.(‎ָ©ותÿÿÿÿ8û¶צׁ…2J$f4bb61ba-7475-4a88-8e87-5d6c8c78ef8e
+r	java:S106;"+Replace this use of System.out by a logger.(׃ס¸ÿÿÿÿÿ8‡·צׁ…2J$2bb433f4-3b11-4697-95f2-6c88d6ba1a20
+r	java:S106J"+Replace this use of System.out by a logger.(…’א¿שÿÿÿÿ8‡·צׁ…2J$47d55519-88e9-4231-bef5-302ae4118555
+m	java:S106Q"+Replace this use of System.out by a logger.(ßÞ«½8ˆ·צׁ…2J$7318397e-c360-4647-9d31-c348b56a1261
+r	java:S106R"+Replace this use of System.out by a logger.(™†ßֽשÿÿÿÿ8ˆ·צׁ…2J$465f9f62-a98c-4e49-bd8f-d44b22cf23c4
+r	java:S106S"+Replace this use of System.out by a logger.(°ם•ֻשÿÿÿÿ8ˆ·צׁ…2J$bd106b3a-7425-479c-8ea7-57895642a816
+r	java:S106T"+Replace this use of System.out by a logger.(ַûרׂ‎ÿÿÿÿ8·צׁ…2J$3abebcd8-6391-4e9c-bc3a-ad5b99be847d
+r	java:S106U"+Replace this use of System.out by a logger.(ûי‎ÿÿÿÿ8תפמ‡2J$8c993ca4-a008-4a12-95d3-01989a53e5e9
+l	java:S106V"+Replace this use of System.out by a logger.(׃…׃28תפמ‡2J$320213ec-37d3-4417-a6c9-428f0d62a06c
+m	java:S106W"+Replace this use of System.out by a logger.(­‰¿•8תפמ‡2J$61c364a5-49d0-47e7-b9f3-5e1cc80ada7d
+	java:S128o"LEnd this switch case with an unconditional break, return or throw statement.(û¿48תפמ‡2J$6d69e395-4f4b-4a83-bb30-ceb0c4a198e5
+r	java:S106["+Replace this use of System.out by a logger.(˜ֿת‎ÿÿÿÿ8תפמ‡2J$63125ef3-0137-4ff1-8954-d14f9bf842e6
+r	java:S106_"+Replace this use of System.out by a logger.(ßוױ‏ÿÿÿÿ8תפמ‡2J$7aa89dab-5921-4932-adf8-de70967dc8c0
+r	java:S106d"+Replace this use of System.out by a logger.(©ק÷‏ÿÿÿÿ8’תפמ‡2J$9d3726f2-32c8-4bc6-8097-44af401ccdc9
+r	java:S106h"+Replace this use of System.out by a logger.(‘ü½‎ÿÿÿÿ8’תפמ‡2J$b4dc52c8-1882-4640-beea-ecebd8fcd3b0
+r	java:S106l"+Replace this use of System.out by a logger.(ֱ ׁ†‎ÿÿÿÿ8’תפמ‡2J$ae3ff1fa-52b0-4176-886e-707a0ac84ab0
+m	java:S106r"+Replace this use of System.out by a logger.(ר³÷8“תפמ‡2J$0940a4a9-444b-4847-879d-c37bc162fd6a
+r	java:S106w"+Replace this use of System.err by a logger.(ׁצ‏™üÿÿÿÿ8“תפמ‡2J$de8ea0df-0e3f-4ddd-89d3-b2b9b09a0fed
+n	java:S106…"+Replace this use of System.out by a logger.(טץÛ8–תפמ‡2J$36f23228-1ddc-4358-9212-88ae874a8156
+s	java:S106"+Replace this use of System.err by a logger.(¨ַüÿÿÿÿ8—תפמ‡2J$487d5c97-f7ab-4549-a483-41a70a72893c
+n	java:S106›"+Replace this use of System.out by a logger.(׳™ֿ•8™תפמ‡2J$af1eb3fe-4f02-4f97-bf8f-266c7a0a087a
+s	java:S106"+Replace this use of System.out by a logger.(¡¾Ûƒשÿÿÿÿ8תפמ‡2J$a06fd90f-16a2-4847-b4e9-40ab8a7362a1
+•
+java:S3457¥"Q%n should be used in place of \n to produce the platform-specific line separator.(¼־ק£8›תפמ‡2J$5e2208f5-beec-4227-ad90-d9610a29dac1
+n	java:S106¥"+Replace this use of System.out by a logger.(¼־ק£8›תפמ‡2J$446af7a5-8f9d-4ef1-8210-6024662832fb
+
+java:S1764«"JCorrect one of the identical sub-expressions on both sides of operator ">"(¢ןגÊ8תפמ‡2J$31a0fc4b-0592-426c-89ff-f19e591a6214

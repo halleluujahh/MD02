@@ -1,0 +1,34 @@
+
+”
+java:S3457k"Q%n should be used in place of \n to produce the platform-specific line separator.(ÖéÁ§8€íÂê†2J$c2f68f3b-db32-4025-9993-8e48d3f0b1ec
+m	java:S106k"+Replace this use of System.out by a logger.(ÖéÁ§8€íÂê†2J$8c12ed0e-264d-4e77-b185-722b66898cd8
+”
+java:S3457l"Q%n should be used in place of \n to produce the platform-specific line separator.(†äÌ¯8íÂê†2J$ce0aee8d-cc9f-44ab-984a-971ae737f550
+m	java:S106l"+Replace this use of System.out by a logger.(†äÌ¯8íÂê†2J$93ae8b58-bc60-46c6-9dae-6c85d3371300
+m	java:S106q"+Replace this use of System.out by a logger.(¿º8ƒíÂê†2J$2f888193-1e7c-42e4-9d6f-3f9a5cbf0ccb
+|
+java:S1117s"9Rename "phone" which hides the field declared at line 15.(Ğ©·ì8ƒíÂê†2J$5cf5b083-abed-460e-8077-4a77411c66a7
+r	java:S106w"+Replace this use of System.err by a logger.(ˆÛøèûÿÿÿÿ8…íÂê†2J$8d5266f7-759e-43a4-90cd-dc1df20e5280
+m	java:S106}"+Replace this use of System.out by a logger.(ñ„çø8†íÂê†2J$8797125f-7ead-4d25-8ab1-485d58fb1af6
+~
+java:S1117";Rename "address" which hides the field declared at line 14.(¬Åñ¶8†íÂê†2J$e285961b-b8f7-4fb3-bb0f-0aa1cd960ea9
+s	java:S106"+Replace this use of System.err by a logger.(¶¤£ßşÿÿÿÿ8‡íÂê†2J$38355b42-f466-4323-a207-b634b75037b9
+m	java:S106‰"+Replace this use of System.out by a logger.(¡•»o8‡íÂê†2J$7737c3c2-b9dc-405b-bf0a-38121d7d2d70
+{
+java:S1117‹"7Rename "sex" which hides the field declared at line 13.(÷ºï8‡íÂê†2J$dad29c33-7f16-4857-a234-34c5cc26804e
+s	java:S106"+Replace this use of System.err by a logger.(Ïˆˆèüÿÿÿÿ8ˆíÂê†2J$af1635bd-0358-4998-beb7-13dad876cf8b
+m	java:S106–"+Replace this use of System.out by a logger.(“§¦%8ŠíÂê†2J$23a9ad53-3579-49a8-98d6-4bb43ddb88a6
+…
+java:S1117˜"<Rename "studentId" which hides the field declared at line 9.(Ä»Ö¸üÿÿÿÿ8ŠíÂê†2J$3be307b5-966c-4d6b-b653-5162d761a499
+s	java:S106£"+Replace this use of System.out by a logger.(ã–‡şÿÿÿÿ8íÂê†2J$422ab2e2-95e7-4fff-878a-bf02f7ecc4a6
+s	java:S106¨"+Replace this use of System.err by a logger.(ø¥Çùÿÿÿÿ8íÂê†2J$92577228-fd28-4cc6-ba33-e2ae8c14a274
+n	java:S106®"+Replace this use of System.out by a logger.(×™Ï•8íÂê†2J$65dd05b1-4907-4fbc-badc-c195f91d3d0e
+ˆ
+java:S1117°"?Rename "studentName" which hides the field declared at line 10.(Şéß÷ÿÿÿÿÿ8íÂê†2J$8aefd760-9f5d-4585-9df0-b78219402100
+s	java:S106´"+Replace this use of System.err by a logger.(ã’ò¯şÿÿÿÿ8’íÂê†2J$fd0488d9-53df-4220-a500-435ee034552a
+n	java:S106º"+Replace this use of System.out by a logger.(ŸİƒÒ8“íÂê†2J$61ef5e19-d83e-4b7d-9694-e606cd68f8a0
+€
+java:S1117¼"7Rename "age" which hides the field declared at line 11.(„¦½­úÿÿÿÿ8“íÂê†2J$59ad80e0-fbec-4c9f-9114-0aba3a5b96e6
+n	java:S106À"+Replace this use of System.err by a logger.(ƒÉèš8”íÂê†2J$26b86ce5-1e8a-41fa-b030-e133f18253a2
+y
+java:S1128"1Remove this unused import 'java.io.Serializable'.(èãîÂÿÿÿÿÿ8¸Éåê†2J$edf32314-0c2c-41cd-9ead-6a39bef4851f
