@@ -1,0 +1,13 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™èáæ8Åéè†2J$64c3ea94-bae9-4792-bc50-36dbd86cfb9f
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”Å¯8Åéè†2J$dca88ebe-3694-49cd-9cfa-fea373300fd0
+m	java:S106"+Replace this use of System.out by a logger.(õç¯‡8Íéè†2J$1335bf87-1ecd-4d68-b21b-b223acf88a4c
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¶—Ó«ıÿÿÿÿ8Îéè†2J$7d292849-f5b6-49ea-b7bb-03b3522ae97f
+r	java:S106"+Replace this use of System.out by a logger.(¶—Ó«ıÿÿÿÿ8Îéè†2J$90b905aa-396d-41cd-b20e-f156d297d155
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(òŠ³™ùÿÿÿÿ8Îéè†2J$ba77865a-ea58-4d12-a357-140cfdc282d3
+r	java:S106"+Replace this use of System.out by a logger.(òŠ³™ùÿÿÿÿ8Îéè†2J$96f5c165-34c8-498b-864b-1cf801848122
+”
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÑŠğË8²“‘è†2J$b3162063-81ff-4883-a937-d59768f9f8e1
+m	java:S106"+Replace this use of System.out by a logger.(ÑŠğË8³“‘è†2J$18ca0b1a-d69f-40cd-90db-ef6168199f66

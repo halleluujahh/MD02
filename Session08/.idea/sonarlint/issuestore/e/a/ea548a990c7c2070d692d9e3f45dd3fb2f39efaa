@@ -1,0 +1,38 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ÌŠûÿÿÿÿ8˜š‰Ãˆ2J$c0e99df7-3955-42be-97b4-4a61eb8b1527
+
+java:S1192}"NDefine a constant instead of duplicating this literal "Invalid rate!" 3 times.(É‰Ö98š‰Ãˆ2J$a0d62f1b-e7dc-428b-b636-5d4255c9229e
+r
+java:S1144u"0Remove this unused private "inputSalary" method.(¥Ù€_8¤š‰Ãˆ2J$714bbb29-6633-4088-8c59-dbbfa0e31dec
+‚
+java:S1117i":Rename "status" which hides the field declared at line 15.( ÈÚÿÿÿÿÿ8±š‰Ãˆ2J$8fa154b2-81fc-4d1c-99f5-ba5e15199472
+r	java:S106k"+Replace this use of System.out by a logger.(Õóàüÿÿÿÿÿ8±š‰Ãˆ2J$35af44be-755a-4a92-9d8d-99cba055f997
+m	java:S106p"+Replace this use of System.err by a logger.(†š„ö8²š‰Ãˆ2J$7cde3446-f416-46fc-ad50-7c0495e61abe
+‚
+java:S1117v":Rename "salary" which hides the field declared at line 14.(¢À­Ìúÿÿÿÿ8´š‰Ãˆ2J$05eef021-d0d3-4900-bc6d-9962fc67cdc0
+r	java:S106x"+Replace this use of System.out by a logger.(®Ú««şÿÿÿÿ8´š‰Ãˆ2J$d936867c-9d57-4a40-b8e2-94b344025b65
+l	java:S106}"+Replace this use of System.out by a logger.(É‰Ö98¶š‰Ãˆ2J$19409467-a650-42d8-b07e-598dff041f78
+‡
+java:S1117„">Rename "commission" which hides the field declared at line 13.(”ß‡ıÿÿÿÿ8·š‰Ãˆ2J$edbdae76-3354-4302-8afb-044cf9dd32a3
+n	java:S106†"+Replace this use of System.out by a logger.(ÇÕŒ¦8¸š‰Ãˆ2J$0b114a84-550f-46c9-baf4-d244873edce4
+m	java:S106‹"+Replace this use of System.out by a logger.(É‰Ö98¹š‰Ãˆ2J$cf2ea8c8-569d-4721-be53-a4d0d5837240
+
+java:S1117’"8Rename "rate" which hides the field declared at line 12.(¡¯Ğÿÿÿÿÿ8ºš‰Ãˆ2J$0de14e74-af01-4b36-bec8-7061b366be67
+n	java:S106”"+Replace this use of System.out by a logger.(¤‚ù¬8ºš‰Ãˆ2J$81065add-8527-4b40-9542-7eefc95e2704
+m	java:S106™"+Replace this use of System.out by a logger.(É‰Ö98ºš‰Ãˆ2J$d9cc3ddb-4f02-4ff9-9656-f98ceeedfec2
+|
+java:S1117 "8Rename "year" which hides the field declared at line 11.(·«ËŞ8¼š‰Ãˆ2J$dc0f7a25-500c-48e6-83c0-79b2098ee1d9
+s	java:S106£"+Replace this use of System.out by a logger.(Ó±çùıÿÿÿÿ8½š‰Ãˆ2J$0286a2ce-678c-45f3-b331-363df3bb089a
+n	java:S106¨"+Replace this use of System.out by a logger.(š€ËÈ8¿š‰Ãˆ2J$c70ee2ac-4878-4836-9006-abc1931056ee
+|
+java:S1117®"8Rename "name" which hides the field declared at line 10.(Ê§…ñ8Àš‰Ãˆ2J$8f8696ed-d6f4-4ee1-9ee2-dac97eb2b9a8
+s	java:S106±"+Replace this use of System.out by a logger.(õ±Ûèşÿÿÿÿ8Áš‰Ãˆ2J$59e800de-9d21-4dca-91a8-8d0494975aeb
+n	java:S106¶"+Replace this use of System.out by a logger.(ô«8Ãš‰Ãˆ2J$31146568-62a8-4901-bc45-7e2b2c901676
+~
+java:S1117¼"5Rename "id" which hides the field declared at line 9.(í‹ñëøÿÿÿÿ8Äš‰Ãˆ2J$8e2a6e4a-b86e-416d-bd74-6cb2d6791406
+s	java:S106À"+Replace this use of System.out by a logger.(“ÜšÎúÿÿÿÿ8Äš‰Ãˆ2J$b8c5a5f0-c4dd-4cb3-b3b2-9fcedc7103a1
+s	java:S106Å"+Replace this use of System.out by a logger.(©âß®ûÿÿÿÿ8Çš‰Ãˆ2J$e9397d25-209b-417a-a466-a80651a440c0
+s	java:S106Ï"+Replace this use of System.out by a logger.(÷‘‡†ùÿÿÿÿ8Èš‰Ãˆ2J$3868e594-1005-4c6d-a20a-ebc920f909cd
+s	java:S106×"+Replace this use of System.out by a logger.(¢Ûáíüÿÿÿÿ8Éš‰Ãˆ2J$36b2fec2-92dc-4326-83a0-d70d1a2f2c41
+r
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8ã€‘Ãˆ2J$44fd2ed6-b8c7-4a78-8635-aef62731681b

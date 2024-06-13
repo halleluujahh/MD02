@@ -1,0 +1,27 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿJ$563f4a1c-8b8e-4023-84d6-9537ca594af8
+w
+java:S1066I"/Merge this if statement with the enclosing one.(ˆ¥Ì×şÿÿÿÿ8¢Ÿû·†2J$fb818186-0506-4ccf-816a-1d230eb66662
+k	java:S106"+Replace this use of System.out by a logger.(„®şîşÿÿÿÿJ$97aa322e-9226-4ba2-95b4-1134c1819bd3
+f	java:S106"+Replace this use of System.out by a logger.(±Ğ¡ÂJ$b75d1a75-5408-4978-a862-b854dcb731db
+f	java:S106"+Replace this use of System.out by a logger.(’Å©J$eb1fdd36-22b0-4e54-b086-60033f02a4ec
+f	java:S106"+Replace this use of System.out by a logger.(¡ÍŞJ$d876c73c-7056-4f3d-9cd9-4eac8103ccd2
+k	java:S106"+Replace this use of System.out by a logger.(€ÿíÑıÿÿÿÿJ$67693e7d-9835-436c-a24a-15a1e7ac19e0
+k	java:S106"+Replace this use of System.out by a logger.(Õ’ç¾ÿÿÿÿÿJ$93c01599-49ab-445c-aac1-530f60c026e0
+e	java:S106"+Replace this use of System.out by a logger.(¬·ÖCJ$fe670929-4c49-4088-9202-df1b02a8a5ce
+k	java:S106"+Replace this use of System.out by a logger.(šñâÄùÿÿÿÿJ$544b666a-5bff-4395-aba9-6174c467a286
+k	java:S106"+Replace this use of System.out by a logger.(„®şîşÿÿÿÿJ$08c5a74c-8456-4e72-9012-2dbeb31303cf
+]	java:S131""Add a default case to this switch.(¨ÕÉJ$803f83b4-18d2-46b9-b1b1-e18616868f3c
+f	java:S106*"+Replace this use of System.out by a logger.(œú¡“J$dfcd2dd5-6816-4076-8d93-9e0dda6ef265
+
+java:S11551">Use isEmpty() to check whether the collection is empty or not.(äÑÙ‡ûÿÿÿÿJ$c3e68f5e-1d19-4fdd-b74a-738353b75cfd
+e	java:S1062"+Replace this use of System.out by a logger.(À´Ã.J$5545fb47-e69e-436c-b81e-155e1019d3ea
+f	java:S1065"+Replace this use of System.out by a logger.(™úƒ½J$52bb6e2b-4297-4659-bc31-b153f8e55740
+
+java:S34576"Q%n should be used in place of \n to produce the platform-specific line separator.(½òˆâJ$f1387773-4b0b-4d67-9d22-30796b57ca38
+f	java:S1066"+Replace this use of System.out by a logger.(½òˆâJ$2a54c909-540d-4d4b-a904-883fb37d00bc
+e	java:S1068"+Replace this use of System.out by a logger.(Œ¹÷J$9b50457b-8eb0-4984-aa66-004d7398bb49
+f	java:S106Q"+Replace this use of System.out by a logger.(Ä¿††J$9a164399-feb9-4805-89d5-689366115877
+f	java:S106\"+Replace this use of System.out by a logger.(õ€á¡J$4cabec90-30b0-493c-8856-8719c448089d
+b
+java:S1068"&Remove this unused "sc" private field.(µ£î†J$ea7cbf71-486f-4cf5-9cab-f6ef4ce19594

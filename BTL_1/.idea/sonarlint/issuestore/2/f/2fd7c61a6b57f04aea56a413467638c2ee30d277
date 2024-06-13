@@ -1,0 +1,130 @@
+
+	java:S112l"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¨€™åŠ2J$296c48cc-6c34-47e0-96a1-85ebee46124e
+	java:S112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8©€™åŠ2J$6c3d3f02-d808-4a5f-bf7f-4dd50794b11e
+	java:S112ƒ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8©€™åŠ2J$09a97e98-5d58-4e2a-8d30-75731d1bf230
+­
+java:S1192"jDefine a constant instead of duplicating this literal "D:\\PT-HN\\MD2-JAVA-BAs\\BTL_1\\books.txt" 3 times.(Åø±ô8Ê’¥åŠ2J$6c4480c6-3c3e-4fc7-93ff-09c751018267
+Ÿ
+java:S1192¦"\Define a constant instead of duplicating this literal "KhÃ´ng tÃ¬m tháº¥y ID sÃ¡ch" 3 times.(Ëíôp8ª€™åŠ2J$d3e696a2-25b6-423f-a7eb-cc7fedf14c3a
+·
+java:S1192"oDefine a constant instead of duplicating this literal "D:\\PT-HN\\MD2-JAVA-BAs\\BTL_1\\categories.txt" 3 times.(¾ó²çúÿÿÿÿ8Ê’¥åŠ2J$3a2744c1-2706-4377-8cf8-b275132cb0fd
+›
+java:S1192~"SDefine a constant instead of duplicating this literal "Lá»—i khi ghi file" 4 times.(©ß“ˆÿÿÿÿÿ8ª€™åŠ2J$0adf31f1-fe11-4409-8436-c40dafedade6
+§
+java:S1192C"_Define a constant instead of duplicating this literal "Lá»±a chá»n khÃ´ng há»£p lá»‡" 3 times.(¤ŒÑÕùÿÿÿÿ8ª€™åŠ2J$a675b037-bf16-437b-ac18-49aaddf4f8b3
+”
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ìûóşÿÿÿÿ8ª€™åŠ2J$0f19626a-f3c9-4a2c-9a35-c1bb6a053e30
+
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(³ úØ8ª€™åŠ2J$e7c96ae3-8ec7-4693-b7ea-1074dad35ce2
+”
+java:S2095x"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ì†­ûÿÿÿÿÿ8ª€™åŠ2J$9df8da4c-429b-4820-9f7d-3169a913b339
+
+java:S2095İ"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(†ÜÈ¸8ª€™åŠ2J$f0ff9a56-35dd-48de-b62f-5fb0e5ac5d8f
+
+java:S2095ô"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(†ÜÈ¸8ª€™åŠ2J$1e81fe59-63e1-4845-90dd-4b5c86f4aa8d
+•
+java:S2095Ó"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ì†­ûÿÿÿÿÿ8ª€™åŠ2J$f9c801ab-1b80-48d3-b5ac-c54815164467
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(—Ğ¬Øÿÿÿÿÿ8®€™åŠ2J$73e299b8-b499-4d0a-99a0-e6640418cb12
+‰
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¾ó²çúÿÿÿÿ8¸€™åŠ2J$bb73f21c-e522-4de9-90a5-5f600b9b0fa2
+„
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Åø±ô8Ê€™åŠ2J$4e23a58b-8521-4bcc-a77f-53d30d37bd0c
+‰	java:S899"BDo something with the "boolean" value returned by "createNewFile".(è¥÷”ûÿÿÿÿ8³€™åŠ2J$731ceadc-d823-4826-b8c2-d64a116ad481
+„	java:S899"BDo something with the "boolean" value returned by "createNewFile".(’—±8³€™åŠ2J$fea1dc67-9c76-49ba-8e23-dbc83253b3ef
+p
+java:S1125"(Remove the unnecessary boolean literals.(‰ñ°Õşÿÿÿÿ8´€™åŠ2J$83c27bc9-2da1-4148-97e3-44a306d869f1
+r	java:S106*"+Replace this use of System.out by a logger.(…·´¾ÿÿÿÿÿ8µ€™åŠ2J$dd279938-3e19-485b-a3b4-0ec311ccb934
+m	java:S1060"+Replace this use of System.out by a logger.(ª‰ƒĞ8µ€™åŠ2J$54cdce43-1505-4653-bba7-99409eeb2859
+m	java:S1061"+Replace this use of System.out by a logger.(ÒôÑï8µ€™åŠ2J$39f51816-fa9b-4d45-944b-affe71bdba85
+m	java:S1062"+Replace this use of System.out by a logger.(¾¿êô8µ€™åŠ2J$eeca7c1b-92c4-4585-9fe8-2b26388deb90
+r	java:S1063"+Replace this use of System.out by a logger.(ß¹À§üÿÿÿÿ8µ€™åŠ2J$cb95f9b0-7230-4f08-82e0-5cb4b1dd076b
+m	java:S106@"+Replace this use of System.err by a logger.(Â‚úå8¶€™åŠ2J$d7252878-4dc6-4e70-9e82-7a400605cb27
+r	java:S106C"+Replace this use of System.err by a logger.(¤ŒÑÕùÿÿÿÿ8¶€™åŠ2J$c9c79574-2af6-4457-8d4c-e9a954a94db7
+m	java:S106K"+Replace this use of System.out by a logger.(«œõ¯8¶€™åŠ2J$3c961e2f-e0ed-4a26-97ca-9695fc2db92e
+m	java:S106L"+Replace this use of System.out by a logger.(Ù¹È¤8¶€™åŠ2J$963822ce-c68d-4ab0-bbf0-11d94e155b08
+m	java:S106M"+Replace this use of System.out by a logger.(œŠ·û8¶€™åŠ2J$1dcadd1f-7efc-4a32-9ba8-f0bbed93f165
+r	java:S106N"+Replace this use of System.out by a logger.(ñìçÈùÿÿÿÿ8¶€™åŠ2J$e35c2b2a-bfa5-4f9e-bcc4-d7dd39925b90
+m	java:S106O"+Replace this use of System.out by a logger.(É´Õˆ8¶€™åŠ2J$cca92966-d22a-4538-ab94-7449b4923121
+r	java:S106P"+Replace this use of System.out by a logger.(ƒæô¶ùÿÿÿÿ8¶€™åŠ2J$2ce753ae-f621-4b33-9958-8e28bd2e5072
+m	java:S106Q"+Replace this use of System.out by a logger.(èÁ»‚8·€™åŠ2J$c28a3770-712b-4303-b863-58530db2ec3f
+r	java:S106g"+Replace this use of System.err by a logger.(Äæ©©øÿÿÿÿ8·€™åŠ2J$3c044c6e-8cbe-408c-8f0a-611026bcef23
+r	java:S106j"+Replace this use of System.err by a logger.(¤ŒÑÕùÿÿÿÿ8·€™åŠ2J$4a56529e-534f-4e7e-9230-80774a6ef43f
+‰
+java:S1075u"ARefactor your code to get this URI from a customizable parameter.(¾ó²çúÿÿÿÿ8¿€™åŠ2J$a8e2e076-bad0-48eb-8fa5-a9f1f0094b40
+‰	java:S899v"BDo something with the "boolean" value returned by "createNewFile".(è¥÷”ûÿÿÿÿ8¸€™åŠ2J$bcadf1fa-80b7-4561-a47c-c3c88565f72b
+r	java:S106~"+Replace this use of System.err by a logger.(©ß“ˆÿÿÿÿÿ8¹€™åŠ2J$7b34b588-5ce5-4408-b59e-ec5b9f257c3b
+r
+java:S2093t"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¹€™åŠ2J$b72fb467-a049-4372-94dd-38a931c85692
+
+java:S1854‘"8Remove this useless assignment to local variable "flag".(³ÖÉÿÿÿÿÿ8¹€™åŠ2J$2bb500ea-89b7-4ffb-8d78-1949c447894a
+r
+java:S1481ˆ")Remove this unused "flag" local variable.(ŸÿáÑÿÿÿÿÿ8¹€™åŠ2J$1f7a1946-e1dd-4ce7-91aa-3fa65a109c72
+s	java:S106Š"+Replace this use of System.out by a logger.(‘èçªùÿÿÿÿ8º€™åŠ2J$3954a2a3-f4f8-460f-870f-172dbb440145
+s	java:S106"+Replace this use of System.err by a logger.(ïµ€£úÿÿÿÿ8º€™åŠ2J$b2f6bbda-3cd9-4248-8651-ab99b5931979
+n	java:S106˜"+Replace this use of System.out by a logger.(ƒ˜Õ8»€™åŠ2J$66428d54-b0d0-4efb-a985-66234eca3717
+n	java:S106›"+Replace this use of System.out by a logger.(–„›8»€™åŠ2J$9d2ba9fd-3d72-4e84-aa54-a94b2a67c959
+n	java:S106¢"+Replace this use of System.err by a logger.(î…Æ8»€™åŠ2J$bd0508e5-5f93-4135-816b-58499a016dc3
+s	java:S106©"+Replace this use of System.out by a logger.(Ì™¢ ûÿÿÿÿ8¼€™åŠ2J$bc2a13a1-b3da-434b-a890-d9904cbbef90
+n	java:S106¯"+Replace this use of System.out by a logger.(ÿĞª…8¼€™åŠ2J$542fe84e-9d10-42c5-a30b-4ef1b2fbc3b1
+n	java:S106³"+Replace this use of System.out by a logger.(–„›8¼€™åŠ2J$16fb2a9b-63b3-497f-ac7f-c8b3e299aa35
+n	java:S106µ"+Replace this use of System.err by a logger.(î…Æ8¼€™åŠ2J$9acec53f-4737-4e9a-b201-fc3aa1e9bf9b
+s	java:S106Á"+Replace this use of System.out by a logger.(Çı¨¶şÿÿÿÿ8½€™åŠ2J$c538c979-d1d3-4eb7-be9d-ad593eabe36c
+s	java:S106Æ"+Replace this use of System.out by a logger.(‘ÃíÒşÿÿÿÿ8¾€™åŠ2J$18bf8538-8fed-4bf9-b545-32dc4f8d837f
+Š
+java:S1075Ğ"ARefactor your code to get this URI from a customizable parameter.(¾ó²çúÿÿÿÿ8Ü’¥åŠ2J$bd1a37c0-99f7-4224-9921-c8818d289c91
+Š	java:S899Ñ"BDo something with the "boolean" value returned by "createNewFile".(è¥÷”ûÿÿÿÿ8¿€™åŠ2J$ca053548-6406-4215-b1f6-c489451b00d3
+s	java:S106×"+Replace this use of System.err by a logger.(©ß“ˆÿÿÿÿÿ8À€™åŠ2J$6096b862-e502-427b-bfdf-602ecc6eff2b
+s
+java:S2093Ï"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8À€™åŠ2J$9dc9be82-19bc-4e62-a552-fd6d6a71c5a2
+s	java:S106â"+Replace this use of System.out by a logger.(ŞŞ•ıÿÿÿÿ8Á€™åŠ2J$a2f35200-711c-4576-98ff-eb2e8b253266
+n	java:S106ã"+Replace this use of System.out by a logger.(ì÷µ¼8Á€™åŠ2J$2dc045e8-478a-44aa-89e8-7cc17c83fa57
+m	java:S106ä"+Replace this use of System.out by a logger.(¢˜Ç{8Á€™åŠ2J$be853b23-93e0-42e6-aa72-04eb1de37f08
+n	java:S106å"+Replace this use of System.out by a logger.(™Èš8Á€™åŠ2J$f8ccfe1a-26cb-4577-9f1c-029d4e0d44d6
+n	java:S106æ"+Replace this use of System.out by a logger.(Û‚æ–8Á€™åŠ2J$aadc3b80-0e45-4010-b108-10bc30883660
+s	java:S106ç"+Replace this use of System.out by a logger.(Ò ³ıÿÿÿÿ8Á€™åŠ2J$f355d073-979b-46f8-82d2-cb44c5844600
+n	java:S106è"+Replace this use of System.out by a logger.(èÁ»‚8Á€™åŠ2J$6c50de92-880f-4579-b2d6-14e0f29ca820
+s	java:S106ş"+Replace this use of System.err by a logger.(Äæ©©øÿÿÿÿ8Â€™åŠ2J$fa18f55f-6ec3-407d-9180-ef39ee6a6aba
+s	java:S106"+Replace this use of System.err by a logger.(¤ŒÑÕùÿÿÿÿ8Â€™åŠ2J$1958be1c-22d3-40b3-94d1-fb38463b6410
+s	java:S106Œ"+Replace this use of System.out by a logger.(Õ£šÃøÿÿÿÿ8Ã€™åŠ2J$9e37b3cf-8dd5-48f4-a8a4-51ce04d0e960
+s	java:S106"+Replace this use of System.out by a logger.(¯íó¯ıÿÿÿÿ8Ä€™åŠ2J$1607f15e-f22c-4e62-9001-7dc289f749dd
+n	java:S106”"+Replace this use of System.out by a logger.(÷î€ê8Ä€™åŠ2J$4a56071b-fa9f-4315-88be-f40b693e75b5
+~
+java:S1854š"5Remove this useless assignment to local variable "b".(àüÀ³úÿÿÿÿ8Ä€™åŠ2J$403dfb04-e40f-4715-b2fd-84a37214e235
+o
+java:S1481š"&Remove this unused "b" local variable.(àüÀ³úÿÿÿÿ8Ä€™åŠ2J$8620f996-ced1-493f-8939-912bd9d6ec13
+s	java:S106œ"+Replace this use of System.out by a logger.(Ä³Ü¶şÿÿÿÿ8Ä€™åŠ2J$eba852ae-5e45-490d-aaf7-f1115c85a410
+n	java:S106"+Replace this use of System.out by a logger.(ÃïÇ¹8Æ€™åŠ2J$a4029464-e343-450a-a540-459ce1a730e1
+m	java:S106¦"+Replace this use of System.out by a logger.(Ëíôp8Æ€™åŠ2J$7b5e2549-c181-49f1-af7b-e9d64220981e
+~
+java:S1854ª"5Remove this useless assignment to local variable "b".(àüÀ³úÿÿÿÿ8Ç€™åŠ2J$9faa0e6e-0cbb-4997-a883-9e2e585d4c7e
+o
+java:S1481ª"&Remove this unused "b" local variable.(àüÀ³úÿÿÿÿ8Ç€™åŠ2J$cc63f89d-a535-44fe-921d-4a281f733fd8
+n	java:S106®"+Replace this use of System.out by a logger.(ì¨ì´8Ç€™åŠ2J$911f6b68-8922-41d0-8dab-09f3cb359ae0
+m
+java:S5869¬"*Remove duplicates in this character class.(³ÙëG8È€™åŠ2J$a54c01d8-bb3b-4492-80a0-e73d53a3bdfc
+s	java:S106³"+Replace this use of System.out by a logger.(öå††úÿÿÿÿ8È€™åŠ2J$63399395-6e41-405e-9113-0cda66f27f4e
+n	java:S106¹"+Replace this use of System.out by a logger.(ƒ˜Õ8È€™åŠ2J$4b9704a1-5d45-485c-bb96-fc44e587266b
+m	java:S106½"+Replace this use of System.out by a logger.(Ëíôp8È€™åŠ2J$0fc81810-1af6-49d7-92ac-d740c2cb5f69
+~
+java:S1854Á"5Remove this useless assignment to local variable "b".(àüÀ³úÿÿÿÿ8É€™åŠ2J$168180db-3bd5-440b-ab23-5032948d972d
+o
+java:S1481Á"&Remove this unused "b" local variable.(àüÀ³úÿÿÿÿ8É€™åŠ2J$86c238aa-3d78-41fa-a420-69c44ce9be3a
+n	java:S106Å"+Replace this use of System.out by a logger.(Á¿æú8É€™åŠ2J$e366278c-3ef7-488e-b853-1ef95dcc8a04
+m
+java:S5869Ã"*Remove duplicates in this character class.(³ÙëG8É€™åŠ2J$b970fc2e-7219-4e1f-98a5-abb2fa08578a
+s	java:S106Ê"+Replace this use of System.out by a logger.(öå††úÿÿÿÿ8Ê€™åŠ2J$b308465a-a270-40ce-9fb7-3a15bd385b10
+n	java:S106Ğ"+Replace this use of System.out by a logger.(ÿĞª…8Ê€™åŠ2J$cde97a33-7ffc-49e3-996d-32e0d23a3846
+m	java:S106Ô"+Replace this use of System.out by a logger.(Ëíôp8Ê€™åŠ2J$f4e5ea4f-eccf-467c-ab91-20ae965b4da2
+…
+java:S1075Ú"ARefactor your code to get this URI from a customizable parameter.(Åø±ô8Ì€™åŠ2J$fab8760c-add0-4b36-a83e-cdf4e7230c06
+…	java:S899Û"BDo something with the "boolean" value returned by "createNewFile".(’—±8Ë€™åŠ2J$40cae433-1401-4f0a-a341-3cb0a46aec8a
+s	java:S106ã"+Replace this use of System.err by a logger.(©ß“ˆÿÿÿÿÿ8Ë€™åŠ2J$31e4787f-cbf9-45fc-bc9f-90ad2a6c5e2d
+s
+java:S2093Ù"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Ë€™åŠ2J$127ecd09-ecd0-45a5-9add-ddb407eaf8c2
+…
+java:S1075ñ"ARefactor your code to get this URI from a customizable parameter.(Åø±ô8³€™åŠ2J$c008ae58-4af2-40ea-b930-8afeae62676a
+…	java:S899ò"BDo something with the "boolean" value returned by "createNewFile".(’—±8Ì€™åŠ2J$a73dc4f9-39ab-4c6c-83d2-0318555a02d5
+s	java:S106ø"+Replace this use of System.err by a logger.(©ß“ˆÿÿÿÿÿ8Ì€™åŠ2J$965a726f-de4a-4409-9abe-a775a82bfc43
+s
+java:S2093ğ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Ì€™åŠ2J$284db848-5a75-42b4-a0c8-4073d56afc82

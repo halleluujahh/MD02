@@ -1,0 +1,13 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ôî‡éùÿÿÿÿJ$de3e8ff4-3a3e-4756-a253-9f99f700a033
+k	java:S106"+Replace this use of System.out by a logger.(Åà¸ÚøÿÿÿÿJ$9697a626-d2bd-4169-a9b6-4ef82a333cb0
+k	java:S106"+Replace this use of System.out by a logger.(‹·ÑŸÿÿÿÿÿJ$1b6f4955-098a-46de-9373-1f3c37bd04b1
+k	java:S106"+Replace this use of System.out by a logger.(äî¯¾úÿÿÿÿJ$5a455682-3968-4ca8-985a-a9a093f2b1cf
+k	java:S106"+Replace this use of System.out by a logger.(§ûŸšûÿÿÿÿJ$96cbd924-7c09-44c9-858e-14329f65a267
+f	java:S106"+Replace this use of System.out by a logger.(çŒí×J$4136cb66-ea63-4a99-bfc2-3722f43eccde
+k	java:S106%"+Replace this use of System.out by a logger.(ŒÃ‰ÿÿÿÿÿJ$f17f1101-dd65-43c9-a66e-83ef22471b07
+}
+java:S6353$"<Use concise character class syntax '\\d' instead of '[0-9]'.(ÊÄ¸úÿÿÿÿJ$0238c84c-b393-48aa-b77c-e4623e8e4ac7
+k	java:S106,"+Replace this use of System.err by a logger.(Ò³ÜúÿÿÿÿJ$f86284a2-7e19-4144-a1a5-6c9161b3c89f
+k	java:S106/"+Replace this use of System.out by a logger.(ÄôùõùÿÿÿÿJ$7181c0c8-ebe7-49b1-9542-5c6d10b83e90
+w	java:S1250"<This block of commented-out lines of code should be removed.(¹¯±ªJ$d1f92f77-e914-4418-a239-74fad48c4008

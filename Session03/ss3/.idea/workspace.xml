@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0fcfe820-6385-4a18-afbe-6f1ce89e945c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Session02/session02/out/production/session02/main/hw/hw3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session02/session02/out/production/session02/main/hw/hw3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session02/session02/out/production/session02/main/hw/hw6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session02/session02/out/production/session02/main/hw/hw6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session02/session02/out/production/session02/main/hw/hw8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session02/session02/out/production/session02/main/hw/hw8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session02/session02/src/main/hw/hw1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session02/session02/src/main/hw/hw1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session02/session02/src/main/hw/hw3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session02/session02/src/main/hw/hw3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session02/session02/src/main/hw/hw6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session02/session02/src/main/hw/hw6.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2i8zy3MUVR7gkAqtYAZYeAJgkgF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array_One_Dimension.executor": "Run",
+    "Application.Array_One_Dimension_UD.executor": "Run",
+    "Application.Array_Two_Dimensions.executor": "Run",
+    "Application.Array_Two_Dimensions_UD.executor": "Run",
+    "Application.hw1.executor": "Debug",
+    "Application.hw2.executor": "Run",
+    "Application.hw3.executor": "Run",
+    "Application.hw4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/PT-HN/MD2-JAVA-BAs/Session03",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.hw4">
+    <configuration name="Array_Two_Dimensions_UD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Array_Two_Dimensions_UD" />
+      <module name="Session03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw.hw1" />
+      <module name="Session03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw.hw2" />
+      <module name="Session03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw.hw3" />
+      <module name="Session03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw.hw4" />
+      <module name="Session03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.hw4" />
+        <item itemvalue="Application.hw3" />
+        <item itemvalue="Application.hw2" />
+        <item itemvalue="Application.hw1" />
+        <item itemvalue="Application.Array_Two_Dimensions_UD" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fcfe820-6385-4a18-afbe-6f1ce89e945c" name="Changes" comment="" />
+      <created>1718887244299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718887244299</updated>
+      <workItem from="1718887245350" duration="8677000" />
+      <workItem from="1718957976278" duration="3905000" />
+      <workItem from="1719057743106" duration="3793000" />
+      <workItem from="1719068337521" duration="63000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

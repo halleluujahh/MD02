@@ -1,0 +1,21 @@
+
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(—Ğ¬Øÿÿÿÿÿ8£€ğãŠ2J$19c23979-0911-4d5a-b698-542d4daf8d38
+
+java:S1117?"9Rename "status" which hides the field declared at line 9.( ÈÚÿÿÿÿÿ8ª€ğãŠ2J$62855c9f-f67b-4048-ba10-4c9819a6168e
+m	java:S106A"+Replace this use of System.out by a logger.(Å¯Ù²8ª€ğãŠ2J$65349ebb-c434-4c73-b5ea-35f3e64e3b39
+r	java:S106D"+Replace this use of System.err by a logger.(Ğ½úüÿÿÿÿ8ª€ğãŠ2J$4d3a8182-9074-4edc-9c94-b57227a9f2f8
+z
+java:S1117L"7Rename "name" which hides the field declared at line 8.(Ê§…ñ8«€ğãŠ2J$e499a41e-72a3-4043-8a9d-9ec4a51fdf7b
+r	java:S106O"+Replace this use of System.out by a logger.(ÿ®•›úÿÿÿÿ8«€ğãŠ2J$13f99dac-d20e-4597-9b34-ee3cda438617
+r	java:S106Y"+Replace this use of System.err by a logger.(êÅÚ¬ıÿÿÿÿ8¬€ğãŠ2J$ad3ec684-f855-421d-8d06-220335aec179
+m	java:S106^"+Replace this use of System.err by a logger.(êˆâ¾8¬€ğãŠ2J$96f0deeb-4e06-4997-9c5b-d048c0ed2bdd
+š
+java:S3776c"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(©£öøÿÿÿÿ8®€ğãŠ2J$d6accc7e-2624-4de6-961a-0abe0ca29a0b
+}
+java:S1117d"5Rename "id" which hides the field declared at line 7.(“¼µüÿÿÿÿ8®€ğãŠ2J$75465728-cbb8-4e2e-9e57-b793855e060b
+m	java:S106h"+Replace this use of System.out by a logger.(ìöÌÈ8¯€ğãŠ2J$12398d90-94d0-4bcc-a4d9-81603c189d12
+m	java:S106q"+Replace this use of System.err by a logger.(Ç¤ï8°€ğãŠ2J$cd6c73c2-6f23-4154-8523-8f567df3f4bd
+m	java:S106v"+Replace this use of System.err by a logger.(Ç¤ï8°€ğãŠ2J$bd71523d-8707-4198-845d-10de8a8703a6
+m	java:S106y"+Replace this use of System.err by a logger.(ÊŞêÙ8°€ğãŠ2J$31e26911-826c-49e1-8208-a6f7f320d1c7
+n	java:S106€"+Replace this use of System.out by a logger.(°Å¥Ì8±€ğãŠ2J$af9e1b52-1f0a-41f5-958f-a57d60f043a1

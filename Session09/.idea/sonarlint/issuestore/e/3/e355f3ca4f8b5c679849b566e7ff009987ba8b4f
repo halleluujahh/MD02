@@ -1,0 +1,21 @@
+
+‹	java:S1198"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Û¦Ç8­°ÿÆˆ2J$1b8e74b3-329c-49fa-adf9-c827cd57dee9
+}
+java:S11179"5Rename "id" which hides the field declared at line 8.(Ûç´Ìúÿÿÿÿ8­°ÿÆˆ2J$837cceac-8f7f-4d42-a7b1-4c0c7bb3d063
+o
+java:S1905A"'Remove this unnecessary cast to "List".(º•¼Ÿÿÿÿÿÿ8­°ÿÆˆ2J$852ce261-5bc0-4c5f-afb6-59d1e0c10ef0
+‡
+java:S1117G"?Rename "description" which hides the field declared at line 10.(·ß…Ëüÿÿÿÿ8®°ÿÆˆ2J$41b96a4f-e644-4749-a416-c82abf71c124
+r	java:S106I"+Replace this use of System.out by a logger.(±¿Æøÿÿÿÿ8¯°ÿÆˆ2J$e8798939-52b8-4d4d-8b52-31e3a315f9d8
+l	java:S106L"+Replace this use of System.err by a logger.(¹ëí58±°ÿÆˆ2J$36e0de0d-b1d4-49f8-87cb-08386af12778
+‚
+java:S1117T":Rename "status" which hides the field declared at line 11.( ÈÚÿÿÿÿÿ8°°ÿÆˆ2J$87fb0ab4-fda7-458a-a6e6-38dc064382c0
+r	java:S106V"+Replace this use of System.out by a logger.(ÕõĞ£ûÿÿÿÿ8°°ÿÆˆ2J$1a1681c4-d261-48a4-b82e-e0c1a97042a8
+r	java:S106["+Replace this use of System.err by a logger.(‚ïšÎıÿÿÿÿ8±°ÿÆˆ2J$16d1e670-28d1-4199-9c73-b2748c6d0e07
+z
+java:S1117b"7Rename "name" which hides the field declared at line 9.(Ê§…ñ8±°ÿÆˆ2J$0815aa88-1f87-4352-aade-b07ea82e5cf8
+m	java:S106e"+Replace this use of System.out by a logger.(€“¢È8±°ÿÆˆ2J$812b8fe8-6595-4fb4-9eb1-ab930474a97b
+r	java:S106i"+Replace this use of System.err by a logger.(ã­íûÿÿÿÿ8ØŞÿÆˆ2J$f9113104-1718-426a-9173-ac8691010e2e
+m	java:S106v"+Replace this use of System.out by a logger.(İÁ®‘8²°ÿÆˆ2J$4341dcc1-15d5-405a-a0b1-e8decbcd6713
+|
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8²°ÿÆˆ2J$180d8e47-ca22-4cd9-8333-dc54aefd9dc5

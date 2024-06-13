@@ -1,0 +1,10 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬Åêóşÿÿÿÿ8­×´Š2J$17ce640d-0f58-422d-b2ee-6e678e181480
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8–­×´Š2J$221d60e3-3fda-4d1d-af43-260752bcc541
+}	java:S125"<This block of commented-out lines of code should be removed.(ü¬×8˜­×´Š2J$8633e773-ae1a-42c2-8257-968eb424668e
+}	java:S125&"<This block of commented-out lines of code should be removed.(ü¬×8˜­×´Š2J$1e57c10d-8597-4670-bba2-573a7b0d8747
+m	java:S106B"+Replace this use of System.out by a logger.(×•œ²8˜­×´Š2J$ac4d750b-dc1a-445d-a319-17846cb91f39
+r	java:S106D"+Replace this use of System.out by a logger.(‹µ‹¶ıÿÿÿÿ8˜­×´Š2J$bb17ae5b-ca5f-4b8d-bd1b-70c6016bc612
+m	java:S106H"+Replace this use of System.out by a logger.(×•œ²8˜­×´Š2J$e82675a0-23e8-4687-8576-2348f1f582ca
+r	java:S106K"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8˜­×´Š2J$0d05d54f-c7b3-49b7-a9d3-68d0281e7118

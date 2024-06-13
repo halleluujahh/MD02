@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="444b5401-5d47-403d-8d8f-1618b16cfeee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../BTL_1/.idea/sonarlint/issuestore/0/f/0f390a81b2bfa98d9a02dc239f44cffb0b8a224d" beforeDir="false" afterPath="$PROJECT_DIR$/../BTL_1/.idea/sonarlint/issuestore/0/f/0f390a81b2bfa98d9a02dc239f44cffb0b8a224d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTL_1/.idea/sonarlint/issuestore/2/f/2fd7c61a6b57f04aea56a413467638c2ee30d277" beforeDir="false" afterPath="$PROJECT_DIR$/../BTL_1/.idea/sonarlint/issuestore/2/f/2fd7c61a6b57f04aea56a413467638c2ee30d277" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTL_1/.idea/sonarlint/issuestore/8/3/83f9ce5fcaf914180c112cad5babb4fb1f1cd7c2" beforeDir="false" afterPath="$PROJECT_DIR$/../BTL_1/.idea/sonarlint/issuestore/8/3/83f9ce5fcaf914180c112cad5babb4fb1f1cd7c2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTL_1/categories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BTL_1/categories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTL_1/src/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BTL_1/src/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session08/.idea/sonarlint/issuestore/e/a/ea548a990c7c2070d692d9e3f45dd3fb2f39efaa" beforeDir="false" afterPath="$PROJECT_DIR$/../Session08/.idea/sonarlint/issuestore/e/a/ea548a990c7c2070d692d9e3f45dd3fb2f39efaa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session09/.idea/sonarlint/issuestore/7/6/769e9b6b5dd2f11c0a576c9b4c903bb32f238286" beforeDir="false" afterPath="$PROJECT_DIR$/../Session09/.idea/sonarlint/issuestore/7/6/769e9b6b5dd2f11c0a576c9b4c903bb32f238286" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session09/.idea/sonarlint/issuestore/9/d/9ddcd6f3883302890ec74368c5ac1e3bc5ff64ec" beforeDir="false" afterPath="$PROJECT_DIR$/../Session09/.idea/sonarlint/issuestore/9/d/9ddcd6f3883302890ec74368c5ac1e3bc5ff64ec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session09/.idea/sonarlint/issuestore/a/0/a05634b797ddfd66882b16a515b02374fbdad762" beforeDir="false" afterPath="$PROJECT_DIR$/../Session09/.idea/sonarlint/issuestore/a/0/a05634b797ddfd66882b16a515b02374fbdad762" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session09/.idea/sonarlint/issuestore/e/3/e355f3ca4f8b5c679849b566e7ff009987ba8b4f" beforeDir="false" afterPath="$PROJECT_DIR$/../Session09/.idea/sonarlint/issuestore/e/3/e355f3ca4f8b5c679849b566e7ff009987ba8b4f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ra/localDate/ValidateLocalDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ra/localDate/ValidateLocalDate.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2jVQsO8snywE0O4ZIehvJTHMY8d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ValidateLocalDate.executor": "Run",
+    "Application.a.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/PT-HN/MD2-JAVA-BAs/Session11",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PT-HN\MD2-JAVA-BAs\Session11" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.a">
+    <configuration name="ValidateLocalDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ra.localDate.ValidateLocalDate" />
+      <module name="Session11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ra.localDate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ra.a" />
+      <module name="Session11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.a" />
+        <item itemvalue="Application.ValidateLocalDate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="444b5401-5d47-403d-8d8f-1618b16cfeee" name="Changes" comment="" />
+      <created>1721469971146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721469971146</updated>
+      <workItem from="1721469972252" duration="2606000" />
+      <workItem from="1721550894510" duration="2056000" />
+      <workItem from="1721612170082" duration="11000" />
+      <workItem from="1721811196613" duration="282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒÕá±8Âåÿè…2J$c6c25157-e399-4e30-a26e-1db53b2b80f4
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼„Þé8Èåÿè…2J$96934538-5853-4dda-84eb-94355ea3ec7e
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼„Þé8Èåÿè…2J$9d6b139d-c8ee-46d0-a661-ce1a35fad4b6
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼„Þé8Èåÿè…2J$5b3131d5-251b-46c2-a950-1585697733d3
+r	java:S106"+Replace this use of System.out by a logger.(òêçëùÿÿÿÿ8Ëåÿè…2J$6ec89011-c3bc-4e2c-9af2-b21e60229df3
+m	java:S106"+Replace this use of System.out by a logger.(÷©¡Æ8Íåÿè…2J$c0b6788a-b315-4e99-a590-4d811fcea5d9

@@ -1,0 +1,30 @@
+
+‹	java:S119V"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ùóó¶8¨òøÆˆ2J$15ffdaab-ba26-4881-a3aa-8f5b53c70d76
+	java:S119_"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(òáòŠşÿÿÿÿ8ªòøÆˆ2J$5f1c2d11-a99c-453d-b8ed-f0906a355c6a
+‚
+java:S1117h":Rename "status" which hides the field declared at line 14.( ÈÚÿÿÿÿÿ8«òøÆˆ2J$9fc8b34f-e402-48ce-964c-e9e255b304fe
+r	java:S106j"+Replace this use of System.out by a logger.(áëËùÿÿÿÿ8«òøÆˆ2J$2c95bc8c-bfb2-4fbb-ba15-9f62a2a3bcb2
+r	java:S106o"+Replace this use of System.err by a logger.(‚ïšÎıÿÿÿÿ8«òøÆˆ2J$4c2b6c99-d89b-4ca0-88b7-dd548d09e5c4
+m	java:S106x"+Replace this use of System.out by a logger.(×ÉÜ“8«òøÆˆ2J$39468659-4d49-4dc6-b1b1-69a20791d1a0
+m	java:S106|"+Replace this use of System.err by a logger.(ŸŠ‚8¬òøÆˆ2J$1bd314a3-1e2d-42fa-8b62-1f0e798962ec
+n	java:S106ƒ"+Replace this use of System.err by a logger.(ÕŞ¬î8¶òøÆˆ2J$110efb54-d8b5-4ae7-aed8-dc92b066c050
+s	java:S106„"+Replace this use of System.err by a logger.(­ƒáÄùÿÿÿÿ8¶òøÆˆ2J$02ef712d-5cab-43b0-a267-6789b740d7ca
+†
+java:S1117‰"=Rename "catalogId" which hides the field declared at line 10.(Û˜‡õşÿÿÿÿ8îÈàÇˆ2J$6cb6b15a-7691-490c-9bca-f010bc79dd69
+s	java:S106"+Replace this use of System.out by a logger.(ğ»¥úÿÿÿÿ8­òøÆˆ2J$06d1dd79-c38a-4e6b-822e-e62c5d70b790
+s	java:S106"+Replace this use of System.out by a logger.(¹ƒÊíıÿÿÿÿ8‡ÉàÇˆ2J$5b443a0f-72dd-4d53-a1e9-aad87ff4052c
+s	java:S106‘"+Replace this use of System.out by a logger.(…ï‘·øÿÿÿÿ8ˆÉàÇˆ2J$6f316147-2078-4a53-8a50-05f40374abfd
+n	java:S106™"+Replace this use of System.err by a logger.(ü¨ô¥8ÉàÇˆ2J$69e2ada0-297f-4bc6-a8da-9a965c5024b8
+n	java:S106›"+Replace this use of System.err by a logger.(ßÃÈ—8“ÉàÇˆ2J$5cbe1108-b094-4257-a059-3f0c1583e1bc
+{
+java:S1117¡"7Rename "name" which hides the field declared at line 9.(Ê§…ñ8—ÉàÇˆ2J$ada0a759-ac37-4563-b2a8-b8b0d6703542
+s	java:S106¤"+Replace this use of System.out by a logger.(†åî•ùÿÿÿÿ8˜ÉàÇˆ2J$ae176148-2c7f-46ac-a789-29af871f8507
+s	java:S106¨"+Replace this use of System.err by a logger.(şÚö¡úÿÿÿÿ8šÉàÇˆ2J$4bd2badf-40cc-4203-ac9e-8039f44809b8
+~
+java:S1117´"5Rename "id" which hides the field declared at line 8.(í‹ñëøÿÿÿÿ8ÉàÇˆ2J$63c4f480-1eeb-401f-848e-0be01dceef9d
+n	java:S106¸"+Replace this use of System.out by a logger.(÷ğ‚ô8 ÉàÇˆ2J$639988fd-f3f5-4fe8-b31a-f7ef92e9876f
+s
+java:S5869µ"*Remove duplicates in this character class.(š‘ãŒÿÿÿÿÿ8¿ÉàÇˆ2J$b20a33fb-5433-4493-bece-030a65c7c4f5
+n	java:S106½"+Replace this use of System.err by a logger.(ÿœÈ8ÀÉàÇˆ2J$054208f1-0639-4c23-8594-4ce2e2b6a9fa
+n	java:S106Æ"+Replace this use of System.err by a logger.(†÷»û8ÀÉàÇˆ2J$0aec0d1c-d5f5-4595-b4bc-606bfd53c4c9
+n	java:S106Í"+Replace this use of System.out by a logger.(£òù±8ÁÉàÇˆ2J$8937f1b8-5e59-4023-b6a8-a1e8c95d7671

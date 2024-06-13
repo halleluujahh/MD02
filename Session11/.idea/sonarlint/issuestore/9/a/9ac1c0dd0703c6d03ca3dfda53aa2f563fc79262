@@ -1,0 +1,22 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡‚ 8Õ°è£2J$ba317348-a010-4767-a6e1-f56ad9f8ae9d
+‹
+java:S1854""CRemove this useless assignment to local variable "totalDaysOfYear".(‹”Œ¦úÿÿÿÿ8Ù°è£2J$1aa82060-59ca-4953-ad55-e707bc1b5988
+‡
+java:S1854 "DRemove this useless assignment to local variable "totalDaysOfMonth".(ò¥™é8Û°è£2J$da1fd242-9de3-4530-9824-6de8c50297fb
+‹
+java:S1854"CRemove this useless assignment to local variable "totalDaysOfWeek".(šËÇàıÿÿÿÿ8Û°è£2J$1d624bf1-e44e-4fef-8680-74bcbf0768af
+~	java:S125
+"<This block of commented-out lines of code should be removed.(‹Éÿ¼8Ü°è£2J$78c01638-318a-47e9-8de4-4c9b133ccd9c
+|
+java:S1481"4Remove this unused "totalDaysOfWeek" local variable.(šËÇàıÿÿÿÿ8Ş°è£2J$b5f55f49-b23a-41d4-8090-6086b68fcefb
+x
+java:S1481 "5Remove this unused "totalDaysOfMonth" local variable.(ò¥™é8Ş°è£2J$de296766-4a7c-4cf3-b7cd-2d4e7f700fbe
+|
+java:S1481""4Remove this unused "totalDaysOfYear" local variable.(‹”Œ¦úÿÿÿÿ8Ş°è£2J$75c61cbc-8479-4ed4-97f3-b30d55291bff
+m	java:S106("+Replace this use of System.out by a logger.(Ï÷ˆğ8ß°è£2J$a9c600c2-d224-41a8-b1bc-45ea26154daf
+~	java:S125+"<This block of commented-out lines of code should be removed.(öª­„8ß°è£2J$2e343ca1-a148-44ef-ab25-5abd1c4f9d00
+‚
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8„÷è£2J$9b7318cf-5a45-4c19-b0f3-5761449b5bce
+v
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8„÷è£2J$82f88165-96a5-4800-9995-d11d958e6144

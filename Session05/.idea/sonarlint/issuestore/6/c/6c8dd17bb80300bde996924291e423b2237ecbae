@@ -1,0 +1,17 @@
+
+œ
+java:S1488k"[Immediately return this expression instead of assigning it to the temporary variable "sum".(šŸ–•üÿÿÿÿJ$95491ad7-4045-4305-ad7e-aa478a72ad15
+|	java:S125"<This block of commented-out lines of code should be removed.(¢Öú¤ûÿÿÿÿJ$10341dc3-861f-4ff0-b8e0-a8f662bc55cc
+e	java:S106p"+Replace this use of System.out by a logger.(²™³J$2592721a-f1a8-43ce-8477-887123e0d025
+k	java:S106t"+Replace this use of System.out by a logger.(ÌüŒƒùÿÿÿÿJ$c0b0efab-2919-4cd0-895a-2473c5249e00
+f	java:S106v"+Replace this use of System.out by a logger.(×™Ï•J$99bc6c3e-7a88-4ffd-a781-957a98e9a44a
+f	java:S106x"+Replace this use of System.out by a logger.(ŸÝƒÒJ$40bd09e4-e34d-42c8-8b58-764fbc0c2847
+e	java:S106z"+Replace this use of System.out by a logger.(¡•»oJ$d96aa212-8657-494d-822f-8472ea283004
+k	java:S106|"+Replace this use of System.out by a logger.(Ë’¯¸ûÿÿÿÿJ$d30284bf-7377-4a88-a6ff-7370b503134c
+f	java:S106~"+Replace this use of System.out by a logger.(Øé¶áJ$dee9bb7c-1549-4ab8-a13e-64711999527d
+Ž
+java:S3457ƒ"Q%n should be used in place of \n to produce the platform-specific line separator.(ÆÉ½ßJ$32ac57f3-20d5-4a84-8dcf-d08263c125c6
+g	java:S106ƒ"+Replace this use of System.out by a logger.(ÆÉ½ßJ$94b29722-9bc8-4c35-a1d9-a3b4a1c06b23
+“
+java:S3457„"Q%n should be used in place of \n to produce the platform-specific line separator.(þºÔ´þÿÿÿÿJ$11b6d267-b392-41fe-847c-d36a29d5b684
+l	java:S106„"+Replace this use of System.out by a logger.(þºÔ´þÿÿÿÿJ$f2b41129-352e-42c6-a574-a9409f69e93b

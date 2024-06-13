@@ -1,0 +1,23 @@
+
+™
+java:S1104"QMake listC a static final constant or non-public and provide accessors if needed.(¦ ®όÿÿÿÿ8«Θ†Δ2J$82aef17e-fbcc-4968-8b2d-36060ff5082d
+™
+java:S1104	"QMake listP a static final constant or non-public and provide accessors if needed.(κ£ρώÿÿÿÿ8«Υ™Δ2J$6db6f776-474a-4a48-a847-4aabdbba1754
+΅
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦ ®όÿÿÿÿ8«Θ†Δ2J$be5fc080-b382-4cf3-93b4-ba33be224d07
+΅
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(κ£ρώÿÿÿÿ8θ—Δ2J$cb354a03-c376-4cb7-8d59-19264bb0e23b
+s
+java:S1444"+Make this "public static listC" field final(¦ ®όÿÿÿÿ8¬Θ†Δ2J$6c4fe6c9-9a4c-4b19-ac2d-0e86d437beeb
+s
+java:S1444	"+Make this "public static listP" field final(κ£ρώÿÿÿÿ8¬Υ™Δ2J$13622d0b-7a4c-4fbc-9432-af6329d2fd90
+e
+java:S2386"Make this member "protected".(¦ ®όÿÿÿÿ8§ΰΗ2J$0c8a31dd-948d-4e8a-8fbb-9297b5193e0b
+e
+java:S2386	"Make this member "protected".(κ£ρώÿÿÿÿ8§ΰΗ2J$80e25956-4c3a-4d40-8098-ea1ef6320c03
+m	java:S106"+Replace this use of System.out by a logger.(£¬Ψπ8³Θ†Δ2J$ccc509dc-c6ff-44dd-98c1-8804f4808a71
+r	java:S106"+Replace this use of System.out by a logger.(­α¦°ϊÿÿÿÿ8³Θ†Δ2J$a271c929-da78-42b1-9cf1-345126066dd3
+m	java:S106"+Replace this use of System.out by a logger.(•±όξ8³Θ†Δ2J$5b1eacf5-e186-455c-846a-aab1f650ed2b
+r	java:S106"+Replace this use of System.out by a logger.(ίΉΐ§όÿÿÿÿ8³Θ†Δ2J$05912726-9f44-425a-9f27-2b13553813f1
+r	java:S106"+Replace this use of System.err by a logger.(ΠΨθψÿÿÿÿ8΄Θ†Δ2J$09622e2f-26d5-4ba4-aafe-b92a79caffa7
+m	java:S106!"+Replace this use of System.err by a logger.(ψω‰8΄Θ†Δ2J$8175bf14-bb5d-4a28-a978-3ef67bb2b0a8

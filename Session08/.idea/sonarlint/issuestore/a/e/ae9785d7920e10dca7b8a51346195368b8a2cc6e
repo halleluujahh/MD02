@@ -1,0 +1,7 @@
+
+{
+java:S1854":Remove this useless assignment to local variable "person".(“ßÆöÿÿÿÿÿJ$712095bc-7cc7-4bab-9135-6fe6cbb514cc
+k	java:S106"+Replace this use of System.out by a logger.(„«Ì„ýÿÿÿÿJ$9ae7d89d-aa68-44aa-9a9d-f6107dfa920d
+k	java:S106"+Replace this use of System.out by a logger.(€ãÇ´øÿÿÿÿJ$7e3dc87b-a81a-4bcb-bfe6-8b182a99ac03
+l
+java:S1481"+Remove this unused "person" local variable.(“ßÆöÿÿÿÿÿJ$bfde2bc3-bb5d-4f22-af41-dc1f31b6215d

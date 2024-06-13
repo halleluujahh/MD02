@@ -1,0 +1,13 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(››ĞıÿÿÿÿJ$7c082fab-6263-4271-b0c8-f573dbfd0f6e
+f	java:S106"+Replace this use of System.out by a logger.(ÃüñJ$4c1dbeed-4131-40c2-bcc3-0d5052bc3e83
+}
+java:S5842"<Rework this part of the regex to not match the empty string.(£üİüûÿÿÿÿJ$d6d0f6db-889e-4784-b92d-abd85813ec44
+f	java:S106
+"+Replace this use of System.out by a logger.(¨—ùJ$d79bf575-04e2-4ddf-a003-dd93778dddcb
+k
+java:S5869	"*Remove duplicates in this character class.(ÿé«–úÿÿÿÿJ$e1ab1ec2-c35c-4ef4-b948-28e35d23ba83
+k
+java:S5869	"*Remove duplicates in this character class.(ÿé«–úÿÿÿÿJ$13fe7f5a-53b0-44d8-b8a1-6b0e00ab8ca1
+
+java:S5998	"LRefactor this repetition that can lead to a stack overflow for large inputs.(ÿé«–úÿÿÿÿJ$4225530a-e57b-45c4-a879-496ef623f6c1
